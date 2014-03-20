@@ -1,61 +1,61 @@
 LOAD SCRIPT|Charger script
-(Years)|
-1 year|
-10 years|
-100 Billionaires|
-2 years|
-3 years|
-5 years|
-6 months|
-Abort|
+(Years)|(Années)
+1 year|1 an
+10 years|10 ans
+100 Billionaires|Top 100 des milliardaires
+2 years|2 ans
+3 years|3 ans
+5 years|5 ans
+6 months|6 mois
+Abort|Annuler
 About|A propos
 Achieved A Population Of|
 Achieved The Selected Within|
-Acquire Technology From Other Companies|
+Acquire Technology From Other Companies|Acquérir une technologie d'autres compagnies
 Add|Ajouter
 Add All|Ajouter tout
-Advertise|
-Advertising|
-Advertising & PR Expense|
-Advertising cost (Cost per Thousand)|
-Advertising Cost (CPM)|
-Advertising Expense|
-Advertising Unit|
-after|
-Aggressive|
+Advertise|Publier
+Advertising|Publicité
+Advertising & PR Expense|Dépense publicitaire et RP
+Advertising cost (Cost per Thousand)|Prix de la pub (Coût pour 100)
+Advertising Cost (CPM)|Coût de la pub (par mois)
+Advertising Expense|Dépense publicitaire
+Advertising Unit|Univté de publicité
+after|Après
+Aggressive|Aggressif
 AI Friendly Merger|Fusion des concurrents
 Air Conditioner|
 AIR CONDITIONER|
-All|
+All|Tout
 All Available|
-All cities|
-All Cities|
-All companies|
-All Media Firms|
-All products|
-All suppliers|
+All cities|Toutes les villes
+All Cities|Toutes les villes
+All companies|Toutes les compagnies
+All Media Firms|Tous les médias
+All products|Tous les produits
+All suppliers|Tous les
 Alternative Stock Sim|Bourse alternative
-Always|
-Always enable it|
-Annual Gross Profit|
-Annual Net Profit|
+Always|Toujours
+Always enable it|Toujours
+Annual Gross Profit|Bénéfice brut annuel
+Annual Net Profit|Bénéfice net annuel
 Annual Operating Profit|Bénéfice d'exploitation annuel
 Annual Operating Profit of Companies Under Your Control|
 Annual Operating Profit of Your Corporation|
-Annual Profit|
+Annual Profit|Bénéfice annuel
 Annual rent per square foot|
 Annual return|
-Annual return on investment:|
+Annual return on investment:|Retour sur l'investissement annuel
 Annual Revenue|Revenus annuels
 Annual Revenue of Companies Under Your Control|
-Annual Revenue of Your Corporation|
-Annual Salary|
-Annual Salary: |
+Annual Revenue of Your Corporation|Revenu annuel de vote société
+Annual Salary|Salaire annuel
+Annual Salary: |Salaire annuel:
 Apartment|Appartement
 Apparel|Habillement
 Apparel Store|
-Apply All|
-April|
+Apply All|Appliquer tout
+April|Avril
 Are you Certain that you wish to delete this person from the list?|
 Are you sure that you want to demolish the apartment and sell the land? \n \nThe land can be sold for|
 Are you sure that you want to demolish the commerical building and sell the land? \n \nThe land can be sold for|
@@ -65,85 +65,85 @@ Area.|
 Area. Fields are Completely Stripped of Vegetation.|
 Ask Salary Raise|
 Assets Turnover|
-at|
+at|à
 Attitude Towards You|
-August|
+August|Août
 Auto Locate|
 Automobile|
 AUTOMOBILE|
 Automobile Outlet|
-Available|
-Average|
-Average Unit Level|
-Average Utilization|
-Avg. Unit Level|
+Available|Disponible
+Average|Moyenne
+Average Unit Level|Moyenne
+Average Utilization|Moyenne d'utilisation
+Avg. Unit Level|Moyenne
 Baby and Adult Livestock|
 Back|Retour
-back|
+back|Retour
 Back Pack|
-Bad|
+Bad|Mauvais
 Badlands|
 Balance Sheet|
-Bank Loans|
-BANKRUPTCY|
-BANKRUPTCY!|
-BASIC|
-Bath Lotion|
-Bed|
+Bank Loans|Emprunt bancaire
+BANKRUPTCY|BANQUEROUTE
+BANKRUPTCY!|BANQUEROUTE!
+BASIC|Basique
+Bath Lotion|Lotion de bain
+Bed|Lit
 Before hiring the new Chief Operating officer,  \n you must terminate the employment of the current one.|
 Beverage|Boissons
 bill|
-billion|
-billion x 10|
-billion x 100|
-Billionaire 100|
+billion|milliard
+billion x 10|milliard x 10
+billion x 100|milliard x 100
+Billionaire 100| Top 100 des milliardaires
 Billionaires 100|
-Blazer|
+Blazer|Blouson
 Body Care Products|Produit Corporel
-Bonus|
-Boom|
+Bonus|Bonus
+Boom|Boom
 Borrow|
 Borrow/Repay Loan|
 Borrows|
 Both|
-Bottled Milk|
+Bottled Milk|Bouteille de lait
 Brand|
 Brand Awareness|
 Brand Loyalty|
 Brand Rating|
-Brand Strategy|
-Bread|
+Brand Strategy|Stratégie
+Bread|Pain
 Brief|
-BUILD|
-Building costs:|
+BUILD|CONSTRUIRE
+Building costs:|Coût de construction
 building factory input failed.|
 building farm input failed.|
 building raw input failed.|
-Building Size|
-Building Types|
+Building Size|Taille de construction
+Building Types|Types de construction
 buildings. You may acquire them for|
 Built with funds donated by:|
 Business Assets|
 Business Relations|
-Buy|
-Buy Firm|
-Buy Land|
-Buy Stock|
-Buy this apartment|
-Buy this commercial building|
-Buy this mansion|
-Buys|
-C.E.O.|
-C.E.O. of|
-Cakes|
-CAKES|
+Buy|Acheter
+Buy Firm|Acheter l'entreprise
+Buy Land|Acheter le terrain
+Buy Stock|Acheter
+Buy this apartment|Acheter cet appartement
+Buy this commercial building|Acheter cet immeuble commercial
+Buy this mansion|Acheter cette maison
+Buys|Achats
+C.E.O.|P.D.G
+C.E.O. of|P.D.G de
+Cakes|gâteau
+CAKES|GÂTEAU
 Camcorder|
 CAMCORDER|
-Camera|
-CAMERA|
-Camera Phone|
-CAMERA PHONE|
-Campaign Cheat to Win|
+Camera|Caméscope
+CAMERA|CAMESCOPE
+Camera Phone|Smartphone
+CAMERA PHONE|SMARTPHONE
+Campaign Cheat to Win|Campagne gagnée en trichant
 Campaigns 1 Text content|
 Campaigns 1 Text title|
 Campaigns 2 Text content|
@@ -165,24 +165,24 @@ Campaigns 9 Text title|
 Can be sold in:|
 CAN_FOOD|
 Cancel|Annuler
-Canned Corn|
-CANNED CORN|
-Canned Soup|
-CANNED SOUP|
+Canned Corn|Céréales
+CANNED CORN|CEREALES
+Canned Soup|Soupe en boite
+CANNED SOUP|SOUPE EN BOITE
 Cannot be sold in|
 Cannot be sold in:|
-Cannot connect to lobby|
+Cannot connect to lobby|Ne se connecte pas à la partie
 Cannot create player|
-Cannot create session|
-Cannot delete this slot|
+Cannot create session|Création de session impossible
+Cannot delete this slot|Impossible de supprimer the slot
 Cannot get connection string from lobby|
 Cannot get game configuration info from the host.|
 Cannot get kingdom information from the host.|
 Cannot get random seeds from the host.|
 Cannot initialize DirectPlay.|
-Cannot join a load game session|
-Cannot join a new game session|
-Cannot join session|
+Cannot join a load game session|Impossible de charger la partie
+Cannot join a new game session|Impossible de joindre la nouvelle partie
+Cannot join session|Ne peut rejoindre la session
 Cannot link Seaport Products of different Towns|
 Cannot load in scenario editor|
 Cannot load the saved game. It was saved with a different version of Capitalism.|
@@ -197,28 +197,28 @@ Cannot read file header|
 Cannot receive important information from the host|
 Cannot set up here:|
 Cannot set up:|
-CAR|
-Car|
-Car Body|
-CAR BODY|
-Career|
-Cash|
-CASH|
-Cash:|
+CAR|VOITURE
+Car|Voiture
+Car Body|Carrosserie
+CAR BODY|CARROSSERIE
+Career|Carrière
+Cash|Argent
+CASH|ARGENT
+Cash:|Argent:
 Cattle|
 CCD|
-Ceases.|
+Ceases.|cesse.
 Central Bank Attitude|
 Central Bank Policy|
-CEO|
-CEO & Chairman|
-Cereal Bar|
-CEREAL BAR|
-Chair|
-CHAIR|
-Chairman|
-Chairman & CEO|
-Chairman and CEO|
+CEO|PDG
+CEO & Chairman|PDG & Actionnaire majoritaire
+Cereal Bar|Barre de céréale
+CEREAL BAR|BARRE DE CEREALE
+Chair|Chaise
+CHAIR|CHAISE
+Chairman|Actionnaire majoritaire
+Chairman & CEO|Actionnaire majoritaire & PDG
+Chairman and CEO|Actionnaire et PDG
 CHALLENGE GAME|DEFIS
 Challenge Game|Défis
 Challenge Game Mode|Mode de jeu challenge
@@ -227,90 +227,90 @@ Change Group Manager|
 Change Internal Sale|
 Change it as needed|
 Change Training Budget|
-Character|
-Character:|
-Chart|
-CHEAT ENABLE|
-Cheat Mode Enabled.|
+Character|Personnage
+Character:|Personnage:
+Chart|Charte
+CHEAT ENABLE|CODE ACTIVE
+Cheat Mode Enabled.|Mode de triche activé.
 CHEMGOOD|
-Chewing Gum|
-CHEWING GUM|
-Chicken|
-Chickens|
-Chief Executive Officer|
-Chief Executive Officer of|
-Chief Executive Officer Office|
-Chief Executive Officer's Office|
-Chief Marketing Officer|
-Chief Marketing Officer of|
-Chief Marketing Officer's Office|
-CHIEF MARKETING OFFICER'S OFFICE|
-Chief Operating Officer|
-Chief operating officer|
-Chief Operating Officer of|
-Chief Operating Officer's Office|
-CHIEF OPERATING OFFICER'S OFFICE|
-Chief Technical Officer|
-Chief Technical Officer of|
-Chief Technical Officer's Office|
-CHIEF TECHNICAL OFFICER'S OFFICE|
-Chocolate Bar|
-CHOCOLATE BAR|
-Cigarettes|
-CIGARETTES|
-Cigars|
-CIGARS|
-Cities|
-Citric Acid|
-CITRIC ACID|
-City|
+Chewing Gum|Chewing-gum
+CHEWING GUM|CHEWING-GUM
+Chicken|Poulet
+Chickens|Poulets
+Chief Executive Officer|Président-Directeur Général
+Chief Executive Officer of|Président-Directeur Général de
+Chief Executive Officer Office|Bureau du Président-Directeur Général
+Chief Executive Officer's Office|Bureau du Président-Directeur Général
+Chief Marketing Officer|Directeur Marketing
+Chief Marketing Officer of|Directeur Marketing de
+Chief Marketing Officer's Office|Bureau du Directeur Marketing
+CHIEF MARKETING OFFICER'S OFFICE|BUREAU DU DIRECTEUR MARKETING
+Chief Operating Officer|Directeur d'exploitation
+Chief operating officer|Directeur d'exploitation
+Chief Operating Officer of|Directeur d'exploitation de
+Chief Operating Officer's Office|Bureau du Directeur d'exploitation
+CHIEF OPERATING OFFICER'S OFFICE|BUREAU DU DIRECTEUR D'EXPLOITATION
+Chief Technical Officer|Directeur Recherche & Developpement
+Chief Technical Officer of|Directeur Recherche & Developpement de
+Chief Technical Officer's Office|Bureau du Directeur Recherche & Developpement
+CHIEF TECHNICAL OFFICER'S OFFICE|BUREAU DU DIRECTEUR RECHERCHE & DEVELOPPEMENT
+Chocolate Bar|barre chocolatée
+CHOCOLATE BAR|BARRE CHOCOLATEE
+Cigarettes|Cigarettes
+CIGARETTES|CIGARETTES
+Cigars|Cigares
+CIGARS|CIGARES
+Cities|Villes
+Citric Acid|Acide citrique
+CITRIC ACID|ACIDE CITRIQUE
+City|Ville
 City Average|
 City Overall|
 City Total|
-Clear|
-Clear Stock|
-Client|
-CLIENT LIST|
-Clients|
-Close|
-CLOSE|
+Clear|Nettoyer
+Clear Stock|Vider le stock
+Client|Client
+CLIENT LIST|Liste des clients
+Clients|Clients
+Close|Fermer
+CLOSE|FERMER
 COAL|
-Cocoa|
-COCOA|
-Coconut|
-Coconut Oil|
-COCONUT OIL|
-Cold|
+Cocoa|Cacao
+COCOA|CACAO
+Coconut|Noix de coco
+Coconut Oil|Huile de noix de coco
+COCONUT OIL|HUILE DE NOIX DE COCO
+Cold|Glace
 Cold Pills|
 COLD PILLS|
-Color|
-Comfort|
+Color|Couleur
+Comfort|Confort
 Commercial Building|Immeuble commerciale
 Common Stock|
 Communication Devices|Périphérique de communication
-COMMUNICATION DEVICES|
-Community Building|
-Community Facilities|
+COMMUNICATION DEVICES|PERIPHERIQUE DE COMMUNICATION
+Community Building|Bâtiment communautaire
+Community Facilities|Infrastructure communautaire
 Commuting Convenience|
-Compact Kamera|
-COMPACT KAMERA|
+Compact Kamera|Caméra compact
+COMPACT KAMERA|CAMERA COMPACT
 Competence of Local Competitors|Compétence des concurrents locaux
-Competitor Advantage|
+Competitor Advantage|Avantage des concurrents
 Competitor Aggressiveness|Agressivité des concurrents
 Competitor Expertise Level|Niveau d'Expertise des concurrents
 Competitor Start-up Capital|Capital de départ des concurrents
-COMPETITORS|
-Compliment|
+COMPETITORS|CONCURRENTS
+Compliment|Compliment(?)
 Computer|Ordinateur
 Computer Controlled Kingdoms|
-Computer Store|
+Computer Store|Magasin multimédia
 Computer's Aggressiveness|
 Computer's Treasure|
 Concern|
 Confidential|
-Confirm|
+Confirm|Confirmer
 Connection string from host is corrupted|
-Conservative|
+Conservative|Conservateur
 Constant Import Supply|Importation constante
 Consumer Goods|
 Consumer Price Index|
@@ -318,14 +318,14 @@ Consumer Price Index:|
 Consumption of Reserve|
 Content Quality|
 Content Volume|
-Continue|
-Continue Game|
+Continue|Continuer
+Continue Game|Continuer la partie
 Contraction|
 Controlled Share|
 Convenience Store|
 Conversely, if the livestock supply bar is longer than the process capacity bar, the unit has reached its full capacity and cannot process all livestock sent to it. You could set up a new livestock process unit to lessen the workload of the current one. You could also increase the training budget for the current unit, which would increase the unit's productivity in long term.|
-Cookies|
-COOKIES|
+Cookies|Cookies
+COOKIES|COOKIES
 Cool|
 Corn|
 CORN|
@@ -347,18 +347,18 @@ Corporation Takeover and Merger|
 corporation's stock performance.|
 Corporations|
 CORPORATIONS|
-COSMETIC|
-Cosmetic Store|
+COSMETIC|COSMETIQUE
+Cosmetic Store|Magasin cosmétique
 Cosmetics|Cosmétique
-COSMETICS|
-Cost|
-Cost of Sales|
+COSMETICS|COSMETIQUE
+Cost|Coût
+Cost of Sales|Prix de ventes
 Cost+Freight|
-Cotton|
+Cotton|Coton
 Cough Syrup|
 COUGH SYRUP|
-CPI|
-CPU|
+CPI|CPI
+CPU|CPU
 Create|
 Creating a New Game . . . . .|
 Credit Limit|
